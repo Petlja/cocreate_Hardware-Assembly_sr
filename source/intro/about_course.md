@@ -1,46 +1,46 @@
-﻿# About the Course
+﻿# О курсу
 
-## Objectives
+## Циљеви
 
-- Learn techniques and procedures for assembling and disassembling computer equipment.
-- Learn how to work with hand tools, protective gear, and technology, using laptops and the platform correctly.
-- Develop collaboration, communication, problem-solving, teamwork, and time management skills.
+- Научити технике и процедуре за слагање и растављање рачунарске опреме.
+- Научити како радити са ручним алатима, заштитном опремом и технологијом, коришћењем лаптопа и платформе на исправан начин.
+- Развити вештине сарадње, комуникације, решавања проблема, тимског рада и управљања временом.
 
-## Prerequisites
+## Предуслови
 
-Students participating in this activity should already be familiar with the components used in assembling computer systems, as well as their key specifications, including:
+Ученици који учествују у овој активности требали би већ бити упознати са компонентама које се користе при склапању рачунарских система, као и са њиховим кључним спецификацијама, укључујући:
 
-- Power Supply: Power rating (W), Voltage (V), Molex, SATA and PCIe (for GPUs) **connectors, Form factors** (ATX, SFX, etc.)
-- Motherboard: CPU socket type (e.g., LGA, AM), **RAM slots** (number and type), Expansion slots (PCI, PCIe, M.2), USB ports (2.0, 3.0, 3.1, 3.2, USB-C), Data and power **connectors** (SATA, Molex, M.2, NVMe) **Chipset and overall compatibility**.
-- RAM: Capacity and technology (e.g., DDR, DDR2, DDR3, DDR4), Transfer rate and frequency, Timings, ECC support, **Chip layout**
-- Hard Drive (HDD): Rotation speed (RPM), Data transfer rate, Data and power connections, **Connectors** (SATA, Molex).
-- Solid State Drive (SSD): **Connectors** (SATA, M.2 SATA, NVMe PCIe), Read/write speed (MB/s or GB/s).
-- Processor (CPU): Number of cores and threads, Base and turbo frequency (GHz), Cache (L1, L2, L3), Power consumption (TDP), **Compatibility with motherboard/socket**.
-- Cooling Systems: Fans (size, RPM, airflow in CFM), CPU cooler (air or liquid cooling), **Thermal paste** (thermal conductivity W/mK)
-- Case / Chassis: **Form factor** (ATX, Micro-ATX, Mini-ITX), Cable management features, Space for fans, Drive bays for HDD/SSD.
+- Напајање: Снага (W), Напон (V), Molex, SATA и PCIe (за GPU-е) **приступни, фактори облика** (ATX, SFX, итд.)
+- Матична плоча: Тип CPU сокета (нпр. LGA, AM), **RAM слотови** (број и тип), Слотови за проширење (PCI, PCIe, M.2), USB портови (2.0, 3.0, 3.1, 3.2, USB-C), Прикључци за податке и струју (SATA, Molex, M.2, NVMe) **чипсет и укупна компатибилност**.
+- RAM: Капацитет и технологија (нпр. DDR, DDR2, DDR3, DDR4), Брзина преноса и фреквенција, Тајминзи, ECC подршка, **распоред чипова**
+- Хард диск (HDD): Брзина ротације (RPM), Брзина преноса података, Прикључци за податке и напајање, **приступници** (SATA, Molex).
+- SSD (Solid State Drive): **Прикључци** (SATA, M.2 SATA, NVMe PCIe), Брзина читања/писања (MB/s или GB/s).
+- Процесор (CPU): Број језгара и нити, Основна и турбо фреквенција (GHz), Кеш (L1, L2, L3), Потрошња енергије (TDP), **компатибилност са матичном плочом/сокетом**.
+- Системи хлађења: Вентилатори (величина, RPM, проток ваздуха у CFM), CPU хладњак (ваздух или течно хлађење), **термална паста** (топлотна проводљивост W/mK)
+- Кућиšte: **Фактор облика** (ATX, Micro-ATX, Mini-ITX), Могућности управљања кабловима, Простор за вентилаторе, Bay-еви за хард дискове.
 
-## Course Description
+## Опис курса
 
-In this course, learners will **safely and collaboratively disassemble and reassemble a computer system**, identify and record its components, and produce clear, accurate technical documentation of the entire process. The activity will be carried out across four sessions:
+У овом курсу, ученици ће **сигурно и колаборативно растављати и поново слагати рачунарски систем**, идентификовати и забележити његове компоненте, створити јасну, прецизну техничку документацију целог процеса. Активност ће се одвијати кроз четири сесије:
 
-## Sessions
+## Сесије
 
-### Session 1 - Collaboration and Safety Rules
+### Сесија 1 - Сарадња и Правила безбедности
 
-We will form work groups, review **collaboration tips** to guide your teamwork in completing the activity, and go over **safety protocols** for handling hardware components.
+Формираћемо радне групе, размотрити ћемо **савете за сарадњу** како бисмо водили ваш тимски рад у завршетку активности и прошли кроз безбедносне протоколе за руковање хардверским компонентама.
 
-### Session 2 - Developing a Disassembly Tutorial
+### Сесија 2 - Развој Водича за Растављање
 
-Each group will disassemble a computer, documenting each step with written notes and photographs to create a **disassembly tutorial**.
+Свака група ће растављати рачунар, документујући сваки корак писаним белешкама и фотографијама како би се направио **водич за растављање**.
 
-### Session 3 - Creating a Hardware Inventory
+### Сесија 3 - Креирање Инвентара Хардвера
 
-With the computer disassembled, each group will proceed to identify and document the technical specifications of the components to create a **hardware inventory**. 
+Са растављеним рачунаром, свака група ће наставити да идентификује и документације техничке спецификације компоненти како би се направио **инвентар хардвера**.
 
-### Session 4 - Developing an Assembly Tutorial
+### Сесија 4 - Развој Водича за Склапање
 
-Each group will develop an **assembly tutorial** by reassembling the computer, and documenting and taking pictures of the process. 
+Свака група ће развити **водич за склапање** поновним склапањем рачунара, документовањем и фотографисањем процеса.
 
 ```{suggestionnote}
-At the end of every session, groups will record their progress and individual member contributions, allowing the teacher to monitor both task advancement and the collaboration process.
+На крају сваке сесије, групе ће забележити свој напредак и допринос сваког члана, што омогућава наставнику да прати напредак задатка и процес сарадње.
 ```

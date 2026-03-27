@@ -1,5 +1,5 @@
 
-project = 'CoCreate Hardware Assembly EN'
+project = 'Колаборативно растављање и састављање рачунарског система'
 copyright = '2025, Fondacija Petlja'
 author = 'Universitat Pompeu Fabra Barcelona'
 
@@ -23,7 +23,7 @@ myst_enable_extensions = [ "colon_fence",
 
 templates_path = ['_templates']
 exclude_patterns = []
-language = 'en'
+language = 'sr'
 
 import plct_sphinx_components
 html_static_path = ['_static'] + plct_sphinx_components.extensions.static_dirs()
@@ -33,7 +33,7 @@ copybutton_selector = "div:not(.no-copybutton) > div.highlight > pre"
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_title = 'CoCreate Hardware Assembly EN'
+html_title = 'Колаборативно растављање и састављање рачунарског система'
 
 def get_builder_from_args():
     import sys

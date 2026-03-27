@@ -1,10 +1,10 @@
-# What have you learned
+# Шта сте научили
 
-- Exercise 1: Answer questions individually in own words.
-- Exercise 2: Match pictograms with their meaning via drag-and-drop.
+- Вежба 1: Одговорите на питања индивидуално властитим речима.
+- Вежба 2: Повежите пиктограме са њиховим значењем (повлачењем и испуштањем).
 
 
-## Exercise 1:
+## Вежба 1:
 
 ```{raw} html
 <div style="text-align: center">
@@ -12,10 +12,10 @@
 </div>
 ```
 
-## Exercise 2:
+## Вежба 2:
 
 <!-- ```{infonote} 
-**We need external drag and drop functionality short term!!!**
+**Потребна нам је привремена подршка за функцију повлачења и испуштања!!!**
 ```
 
 ```{image} images/Lesson_1_Ex_2_Task.png
@@ -25,12 +25,12 @@
 ``` -->
 
 ```{mchoice}
-:answer1: Electrostatic discharge;
-:answer2: Hot surface;
-:answer3: Burn;
+:answer1: Електростатичко пражњење;
+:answer2: Врела површина;
+:answer3: Опасност од опекотина;
 :correct: 1
 
-Select the correct label corresponding to pictogram
+Изаберите тачан опис који одговара пиктограму
 ```{image} images/Qimg1.png
 :width: 100px
 :align: center
@@ -38,12 +38,12 @@ Select the correct label corresponding to pictogram
 ```
 
 ```{mchoice}
-:answer1: Laser;
-:answer2: General warning;
-:answer3: High voltage;
+:answer1: Опасност од ласера;
+:answer2: Опште упозорење;
+:answer3: Висок напон;
 :correct: 2
 
-Select the correct label corresponding to pictogram
+Изаберите тачан опис који одговара пиктограму
 ```{image} images/Qimg2.png
 :width: 100px
 :align: center
@@ -52,12 +52,12 @@ Select the correct label corresponding to pictogram
 
 
 ```{mchoice}
-:answer1: Electrostatic discharge;
-:answer2: Burn;
-:answer3: Hot surface;
+:answer1: Електростатичко пражњење;
+:answer2: Опасност од опекотина;
+:answer3: Врела површина;
 :correct: 2
 
-Select the correct label corresponding to pictogram
+Изаберите тачан опис који одговара пиктограму
 ```{image} images/Qimg3.png
 :width: 100px
 :align: center
@@ -65,12 +65,12 @@ Select the correct label corresponding to pictogram
 ```
 
 ```{mchoice}
-:answer1: EU certification mark;
-:answer2: General warning;
-:answer3: High voltage;
+:answer1: Ознака ЕУ сертификата;
+:answer2: Опште упозорење;
+:answer3: Висок напон;
 :correct: 3
 
-Select the correct label corresponding to pictogram
+Изаберите тачан опис који одговара пиктограму
 ```{image} images/Qimg4.png
 :width: 100px
 :align: center
@@ -78,12 +78,12 @@ Select the correct label corresponding to pictogram
 ```
 
 ```{mchoice}
-:answer1: Fragile;
-:answer2: Laser;
-:answer3: Explosion;
+:answer1: Ломљиво;
+:answer2: Опасност од ласера;
+:answer3: Опасност од екплозије;
 :correct: 1
 
-Select the correct label corresponding to pictogram
+Изаберите тачан опис који одговара пиктограму
 ```{image} images/Qimg5.png
 :width: 100px
 :align: center
@@ -91,12 +91,12 @@ Select the correct label corresponding to pictogram
 ```
 
 ```{mchoice}
-:answer1: EU certification mark;
-:answer2: European Norms Electrical Certification;
-:answer3: UL component mark for US and Canada;
+:answer1: Ознака ЕУ сертификата;
+:answer2: Сертификација електричних инсталација по европским нормама;
+:answer3: UL ознака компоненте за САД и Канаду;
 :correct: 3
 
-Select the correct label corresponding to pictogram
+Изаберите тачан опис који одговара пиктограму
 ```{image} images/Qimg6.png
 :width: 100px
 :align: center
@@ -104,12 +104,12 @@ Select the correct label corresponding to pictogram
 ```
 
 ```{mchoice}
-:answer1: Laser;
-:answer2: Explosion;
-:answer3: High voltage;
+:answer1: Опасност од ласера;
+:answer2: Опасност од екплозије;
+:answer3: Висок напон;
 :correct: 1
 
-Select the correct label corresponding to pictogram
+Изаберите тачан опис који одговара пиктограму
 ```{image} images/Qimg7.png
 :width: 100px
 :align: center
@@ -117,12 +117,12 @@ Select the correct label corresponding to pictogram
 ```
 
 ```{mchoice}
-:answer1: High temperature;
-:answer2: Hot surface;
-:answer3: General warning;
+:answer1: Висока температура;
+:answer2: Врела површина;
+:answer3: Опште упозорење;
 :correct: 1
 
-Select the correct label corresponding to pictogram
+Изаберите тачан опис који одговара пиктограму
 ```{image} images/Qimg8.png
 :width: 100px
 :align: center
@@ -130,12 +130,12 @@ Select the correct label corresponding to pictogram
 ```
 
 ```{mchoice}
-:answer1: EU certification mark;
-:answer2: European Norms Electrical Certification;
-:answer3: Electrostatic discharge;
+:answer1: Ознака ЕУ сертификата;
+:answer2: Сертификација електричних инсталација по европским нормама;
+:answer3: Електростатичко пражњење;
 :correct: 1
 
-Select the correct label corresponding to pictogram
+Изаберите тачан опис који одговара пиктограму
 ```{image} images/Qimg9.png
 :width: 100px
 :align: center
@@ -143,12 +143,12 @@ Select the correct label corresponding to pictogram
 ```
 
 ```{mchoice}
-:answer1: Burn;
-:answer2: Explosion;
-:answer3: Laser;
+:answer1: Опасност од опекотина;
+:answer2: Опасност од екплозије;
+:answer3: Опасност од ласера;
 :correct: 2
 
-Select the correct label corresponding to pictogram
+Изаберите тачан опис који одговара пиктограму
 ```{image} images/Qimg10.png
 :width: 100px
 :align: center
@@ -156,12 +156,12 @@ Select the correct label corresponding to pictogram
 ```
 
 ```{mchoice}
-:answer1: General warning;
-:answer2: Hot surface;
-:answer3: Fragile;
+:answer1: Опште упозорење;
+:answer2: Врела површина;
+:answer3: Ломљиво;
 :correct: 2
 
-Select the correct label corresponding to pictogram
+Изаберите тачан опис који одговара пиктограму
 ```{image} images/Qimg11.png
 :width: 100px
 :align: center
@@ -169,44 +169,44 @@ Select the correct label corresponding to pictogram
 ```
 
 ```{mchoice}
-:answer1: UL component mark for US and Canada
-:answer2: EU certification mark;
-:answer3: European Norms Electrical Certification;
+:answer1: UL ознака компоненте за САД и Канаду
+:answer2: Ознака ЕУ сертификата;
+:answer3: Сертификација електричних инсталација по европским нормама;
 :correct: 3
 
-Select the correct label corresponding to pictogram
+Изаберите тачан опис који одговара пиктограму
 ```{image} images/Qimg12.png
 :width: 100px
 :align: center
 :alt: Diagrama do exercício de arrastar e soltar.
 ```
-<!-- Labels and final solution list:
+<!-- Ознаке и коначна листа решења:
 
-1. Electrostatic discharge  
-2. High Voltage Electrical hazard  
-3. Laser hazard  
-4. Explosion hazard  
-5. General warning  
-6. Fragile hazard  
-7. High temperature hazard  
-8. Hot surface hazard  
-9. Burn hazard  
-10. UL component mark for the US and Canada  
-11. EU certification mark  
-12. European Norms Electrical Certification -->
+1. Електростатичко пражњење  
+2. Високи напон (електрични ризик)  
+3. Опасност од ласера  
+4. Опасност од експлозије  
+5. Опште упозорење  
+6. Ломљиво  
+7. Висока температура  
+8. Врела површина  
+9. Опасност од опекотина  
+10. UL ознака за САД и Канаду  
+11. EU ознака сертификације  
+12. Европски стандарди електричне сертификације -->
 
 
-## Exercise 3: 
+## Вежба 3:
 
-In the groups you formed for the following sessions, discuss and find solutions to the given situations. You will have 7 minutes for this task. Afterwards, each group will present its solutions to the whole class.
+У групама које сте формирали за следеће сесије, дискутујте и пронађите решења за дате ситуације. Имате 7 минута за овај задатак. Након тога, свака група ће представити своја решења пред целим разредом.
 
-1. A piece of equipment has just arrived at the workshop for repair, and you need to open it to see what’s wrong since it won’t start. What precautions should you take? Explain each one.
+1. У радионицу је управо стигао уређај на поправку и потребно је да га отворите како бисте видели шта није у реду, јер се не покреће. Које мере предострожности треба предузети? Објасните сваку.
 
-2. Regarding fire extinguishing systems, what type of extinguisher would you use to put out a fire that started in an open PC you were repairing?
+2. У вези са системима за гашење пожара, који тип апарата бисте користили за гашење пожара који је настао у отвореном рачунару који поправљате?
 
-3. Suppose that while trying to put out the fire mentioned above, your colleague burned their hand and arm. What first aid measures would you take?
+3. Претпоставимо да је док сте покушавали да угасите пожар из претходног питања, ваш колега опекао руку и подлактицу. Које мере прве помоћи бисте предузели?
 
-4. In another piece of equipment, when removing the power supply, you cut your finger. What first aid measures would you take?
+4. У другом уређају, приликом уклањања напајања, исекли сте прст. Које мере прве помоћи бисте предузели?
 
-5. What basic protective equipment should you use in the workshop to reduce risks associated with computer equipment?
+5. Коју основну заштитну опрему треба користити у радионици да би се смањили ризици повезани са рачунарском опремом?
 

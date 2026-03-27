@@ -1,38 +1,38 @@
-# Collaboration
+# Сарадња
 
-## How to collaborate effectively
+## Како ефикасно сарађивати
 
-Developing collaboration skills within your team is essential for this activity. While completing each task, please follow these rules to ensure an **inclusive, respectful, and co-responsible** collaboration process. 
+Развијање вештина сарадње у вашем тиму је неопходно за ову активност. Док завршавате сваки задатак, молимо вас да следите ова правила да бисте осигурали **инклузиван, поштован и одговоран** процес сарадње.
 
-Your group will be **assessed on how effectively** (1 – Not followed at all; 2 – Mostly not followed; 3 – Mostly followed; 4 – Fully followed) it demonstrates each of these aspects of teamwork.
+Ваша група ће бити **оцењена за то колико ефикасно** (1 – Није се пратило уопште; 2 – Углавном се није пратило; 3 – Углавном се пратило; 4 – Потпуно се пратило) демонстрира сваки од ових аспеката тимског рада.
 
 ```{infonote}
-**Collaboration rules:**
-1. We are all equal and we respect one another.
-2. We foster a good atmosphere even when we think differently.
-3. We are all responsible for group work and results.
-4. We help everyone contribute to group work.
-5. We strive to involve everyone in decision-making.
-6. We consider many ideas before selecting the best one.
-7. We expound on ideas, weigh arguments, and devise solutions.
-8. We use time wisely to work on the task.
-9. We monitor progress and plan the next step.
+**Правила сарадње:**
+1. Сви смо једнаки и поштујемо једни друге.
+2. Негујемо добру атмосферу чак и када мислимо другачије.
+3. Сви смо одговорни за групни рад и резултате.
+4. Помажемо свима да допринесу групном раду.
+5. Тежимо да укључимо све у доношење одлука.
+6. Разматрамо много идеја пре него што изаберемо најбољу.
+7. Разрађујемо идеје, вагамо аргументе и смишљамо решења.
+8. Користимо време мудро за рад на задатку.
+9. Пратимo напредак и планирамо следећи корак.
 ```
 
-**Exercise.** Read the five problematic situations that occurred in student teams while completing a task similar to yours.
+**Вежба.** Прочитајте пет проблематичних ситуација које су се десиле у ученичким тимовима док су завршавали задатак сличан вашем.
 
-1) At the start of the activity, one student admits: “I’ve never opened a computer before, so I don’t think I’ll be much help.” The rest of the group accepts this without discussion and allows the student to sit aside. Throughout the session, the student only passes tools when asked and does not participate in documentation or decision-making. By the end, the student feels disconnected and excluded, and has not developed the skills intended by the activity. 
+1) На почетку активности, један ученик признаје: „Никада нисам отварао рачунар пре, тако да мислим да нећу бити од велике помоћи." Остатак групе прихвата ово без дискусије и дозвољава ученику да седи по страни. Током сесије, ученик само преноси алате када се тражи и не учествује у документацији или доношењу одлука. На крају, ученик се осећа одвојено и искључено, и није развио вештине које активност подразумева.
 
-2) While reassembling the computer, one student notices that a screw is missing. Another student blames them loudly, causing tension in the group. The team atmosphere becomes negative, and they struggle to continue working together.
+2) Док поново састављају рачунар, један ученик примећује да недостаје вијак. Други ученик их гласно оптужује, изазивајући тензију у групи. Атмосфера тима постаје негативна, и они се боре да наставе да раде заједно.
 
-3) Two students disagree on the correct order for removing components. Instead of discussing calmly, they start arguing, and the group loses time. The tutorial notes become confusing because of the lack of clear decisions.
+3) Два ученика се не слажу о исправном редоследу уклањања компоненти. Уместо да мирно дискутују, почињу да се свађају, и група губи време. Белешке водича постају збуњујуће због недостатка јасних одлука.
 
-4) While preparing the tutorial, two students disagree about how detailed the step descriptions should be. One insists on very short notes with photos, while the other wants long explanations. The group cannot move forward because of the disagreement. 
+4) Док припремају водич, два ученика се не слажу о томе колико детаљни треба да буду описи корака. Један инсистира на веома кратким белешкама са фотографијама, док други жели дуга објашњења. Група не може да напредује због неслагања.
 
-5) The group agreed that one student would take photos during disassembly. At the end of the task, they realize the photos are blurry and incomplete, and the tutorial cannot be finished properly. Other group members are upset.
+5) Група се договорила да ће један ученик снимати фотографије током растављања. На крају задатка, схватају да су фотографије замагљене и непотпуне, и водич се не може правилно завршити. Остали чланови групе су узнемирени.
 
-In the groups you formed, **discuss the situation and agree on a solution**. While doing so, reflect on the following questions:
-1. What did the team members do wrong, and which collaboration rules were violated in this situation?
-1. Which rules did your group apply to solve the problem?
-1. What lessons can you take from this to improve your teamwork in the future?
+У групама које сте формирали, **дискутујте о ситуацији и договорите се о решењу**. Док то радите, размислите о следећим питањима:
+1. Шта су чланови тима урадили погрешно, и која правила сарадње су прекршена у овој ситуацији?
+1. Која правила је ваша група применила да реши проблем?
+1. Које поуке можете извући из овога да побољшате ваш тимски рад у будућности?
 

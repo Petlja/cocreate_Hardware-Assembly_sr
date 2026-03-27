@@ -1,13 +1,13 @@
-# Overview
+# Преглед
 
-In this session you will: 
-- Form teams for further work and learn **how to collaborate effectively** within your team.
-- Review **safety protocols** for safely removing and handling components.
+У овој сесији ћете:
+- Формирати тимове за даљи рад и научити **како ефикасно сарађивати** у вашем тиму.
+- Прегледати **протоколе безбедности** за безбедно уклањање и руковање компонентама.
 
-## Group formation and tasks overview
+## Формирање група и преглед задатака
 
-In this course, we will work in **groups of three** to: 
+У овом курсу, радићемо у **групама од три** са задатком да:
 
-- **Step 1.** Disassemble one computer per group and develop a disassembly tutorial with stepwise photos and descriptions.
-- **Step 2.** Compile a hardware inventory of disassembled components with technical specifications in the tutorial.
-- **Step 3.** Reassemble the computer and create an assembly tutorial with stepwise photos and descriptions.
+- **Корак 1.** Раставимо један рачунар по групи и развијемо водич за растављање са корак-по-корак фотографијама и описима.
+- **Корак 2.** Направимо инвентар хардвера растављених компоненти са техничким спецификацијама и од њега направимо водич.
+- **Корак 3.** Поново саставимо рачунар и направимо водич за састављање са фотографијама и описима за сваки корак.

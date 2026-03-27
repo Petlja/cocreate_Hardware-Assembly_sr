@@ -1,7 +1,7 @@
 ---
 status: exclude
 ---
-# Welcome
+# Добродошли
 
 ```{toctree}
 :maxdepth: 2
