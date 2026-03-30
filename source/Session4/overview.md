@@ -1,14 +1,14 @@
-# Developing an Assembly Tutorial
+# Израда водича за склапање
 
-In this session:
-- Collaborate to safely **assemble a computer**
-- Develop an **assembly tutorial** detailing each step and documenting the process sequentially with photos and descriptions.
-- Collaborate in your groups to safely **assemble a computer**.
-- Develop an **assembly tutorial** detailing each step and documenting the process sequentially with photos and descriptions. 
+У овој сесији ћете:
+- Сарађивати да безбедно **склопите рачунар**
+- Развити **водич за склапање** са детаљима сваког корака и документовањем процеса фотографијама и описима.
+- Сарађивати у вашим групама да безбедно **склопите рачунар**.
+- Развити **водич за склапање** са детаљима сваког корака и документовањем процеса фотографијама и описима. 
 
-## Disassembly & Assembly Tutorial Template:
+## Шаблон водича за растављање и склапање:
 
-Use the **Assembly Process** section of the provided *Disassembly & Assembly Tutorial Template* to organize your work clearly and systematically.  
+Користите одељак **Процес склапања** из пруженог *Шаблона водича за растављање и склапање* да организујете ваш рад јасно и систематски.  
 
 ```{raw} html
 <div style="text-align: center">
@@ -16,41 +16,41 @@ Use the **Assembly Process** section of the provided *Disassembly & Assembly Tut
 </div>
 ```
 
-## Assembly instructions
+## Упутства за склапање
 
-Computer assembly is an essential job of a computer installation technician. It is a process in which all the internal components required for the computer system are fitted so as to make the computer functional. There is a proper sequence of attachment for each and every component into the computer system.
+Склапање рачунара је суштински посао техничара за инсталацију рачунара. То је процес у коме се све интерне компоненте потребне за рачунарски систем постављају тако да рачунар буде функционалан. Постоји одговарајућа редослед постављања за сваку компоненту у рачунарском систему.
 
-It is a systematic process. Start by arranging the computer parts.
+То је систематичан процес. Почните са организовањем делова рачунара.
 
-Materials required:
+Потребни материјали:
 
-- Computer case with PSU installed
-- Motherboard
-- CPU
-- Heat sink/fan assembly
-- Thermal compound
-- RAM module(s)
-- Motherboard standoffs and screws
-- Anti-static wrist strap and mat
-- Tool kit
+- Кућиште рачунара са инсталираним напајањем
+- Матична плоча
+- Процесор (CPU)
+- Комплет хладњака/вентилатора
+- Термална паста
+- RAM модул(и)
+- Матична плоча и вијци
+- Антистатичка нараквица и подлога
+- Комплет алата
 
-| Step | Instructions |
+| Корак | Упутства |
 |---|---|
-| 1. Open the case | ![](./images/S1a.png) ![](./images/S1b.png) ![](./images/S1c.png) <br> The first step in assembling a computer is to open the computer case. To open the case, first remove the screws of the left side cover and slide the slide cover. |
-| 2. Install the power supply | ![](./images/S2.png) <br> The next step is to install a power supply. There are usually four screws that attach the power supply to the case. |
-| 3. Attach components to the motherboard | ![](./images/S3a.png) <br> The motherboard has to be prepared before its installation. To prepare the motherboard, you first need to install the CPU, then the heat sink on the CPU, and then the CPU fan. <br> ![](./images/S3b.png) <br> CPU:<br> A CPU socket uses a series of pins to connect a CPU’s processor to the PC’s motherboard. A CPU is connected via a CPU socket. <br> ![](./images/S3c.png) <br> Heat sink and fan assembly:<br> A Heat Sink and Fan (HSF) is an active cooling situation used to cool down integrated circuits in computer systems, commonly the Central Processing Unit (CPU). <br> ![](./images/S3d.png) <br> Connect the assembly power cable to the CPU fan connector on the motherboard. <br> ![](./images/S3e.png) <br> Installation of RAM: <br> To install the RAM, first install it on the motherboard and then fix the motherboard in the case. To install the RAM, first ensure its compatibility with the motherboard. |
-| 4. Install the motherboard | ![](./images/S4.png) <br> After preparing the motherboard, you can install the computer case.|
-| 5. Install internal drives | ![](./images/S5.png) <br> Hard drive - The hard drive is the device which stores all data. Connect the power cable coming from the SMPS to the power socked of the hard disk drive. Connect the SATA data cable from the hard disk drive socket to the motherboard socket. |
-| 6. Connect all internal cables | ![](./images/S6.png) <br> Power cables are used to distribute electricity from the power supply to the motherboard and other components. Data cables transmit data between the motherboard and storage devices, such as hard drives. |
-| 7. Install motherboard power connections | ![](./images/S7.png) <br> The Advanced Technology Extended (ATX) main power connector will have either 20 or 24 pins. |
-| 8. Connect external cables | ![](./images/S8a.png) <br> Connect the monitor - The VGA cable is used to connect to the monitor. ![](./images/S8b.png) <br> Connect the keyboard - If it uses a USB connector, plug it into any of the USB ports on the back of the computer. ![](./images/S8c.png) <br> Connect headphones or speakers, and microphone - Connect the external speakers or headphones, to the computer’s audio port (either on the front or back of the computer case). ![](./images/S8d.png) <br> Connect the computer to a power supply - Connect the power supply cable into the back of the computer case.  ![](./images/S8e.png) <br> Connect the printer, scanner and webcam |
-| 9. Starting the computer | ![](./images/S9.png) <br>Always remember that the first step is to push the power button of the CPU, then the monitor’s. An operating system or system software like Window or Linux will start loading. Now your computer is ready to use. |
+| 1. Отварање кућишта | ![](./images/S1a.png) ![](./images/S1b.png) ![](./images/S1c.png) <br> Први корак при склапању рачунара је отварање кућишта. Да бисте отворили кућиште, прво уклоните вијке левог поклопца и померите поклопац. |
+| 2. Инсталирање напајања | ![](./images/S2.png) <br> Следећи корак је инсталирање напајања. Обично постоје четири вијка која причвршћују напајање за кућиште. |
+| 3. Припремање матичне плоче | ![](./images/S3a.png) <br> Матичну плочу треба припремити пре инсталације. За припрему матичне плоче, прво инсталирајте CPU, потом хладњак на CPU, а затим вентилатор CPU-а. <br> ![](./images/S3b.png) <br> CPU:<br> CPU сокет користи серију пинова за повезивање процесора са матичном плочом. CPU је прикључен преко CPU сокета. <br> ![](./images/S3c.png) <br> Комплет хладњака и вентилатора:<br> Хладњак и вентилатор (HSF) су активни систем хлађења који се користи за хлађење интегрисаних кола у рачунарима, обично централног процесора (CPU). <br> ![](./images/S3d.png) <br> Повежите кабл напајања комплета на конектор вентилатора CPU на матичној плочи. <br> ![](./images/S3e.png) <br> Инсталација RAM-а: <br> За инсталацију RAM-а, прво га поставите на матичну плочу, а затим чврсто причврстите матичну плочу у кућиште. Пре инсталације проверите компатибилност RAM-а са матичном плочом. |
+| 4. Инсталирање матичне плоче | ![](./images/S4.png) <br> Након припреме матичне плоче, инсталирајте је у кућиште. |
+| 5. Инсталирање унутрашњих дискова | ![](./images/S5.png) <br> Хард диск - уређај који складишти све податке. Повежите кабл напајања са напајања на утичницу хард диска. Повежите SATA кабл са утичнице хард диска на утичницу матичне плоче. |
+| 6. Повежите све унутрашње каблове | ![](./images/S6.png) <br> Каблови напајања дистрибуирају струју из напајања до матичне плоче и осталих компоненти. Податочни каблови преносе податке између матичне плоче и уређаја за складиштење, као што су хард дискови. |
+| 7. Инсталирање напајања матичне плоче | ![](./images/S7.png) <br> Главни ATX конектор напајања има 20 или 24 пина. |
+| 8. Повежите спољне каблове | ![](./images/S8a.png) <br> Повежите монитор – VGA кабл се користи за монитор. ![](./images/S8b.png) <br> Повежите тастатуру – ако користи USB прикључак, повежите га у било који USB порт на задњој страни рачунара. ![](./images/S8c.png) <br> Повежите слушалице или звучнике и микрофон – повежите екстерне звучнике или слушалице на аудио прикључак рачунара (предњи или задњи). ![](./images/S8d.png) <br> Повежите рачунар на струју – повежите кабл напајања у задњу страну кућишта. ![](./images/S8e.png) <br> Повежите штампач, скенер и веб камеру. |
+| 9. Покрените рачунар | ![](./images/S9.png) <br> Увек се сећајте да је први корак притисак на дугме за укључивање на процесору, па затим на монитору. Оперативни систем као што је Windows или Linux ће почети да се учитава. Сада је ваш рачунар спреман за употребу. |
 
-## Submit your final product
+## Пошаљите ваш коначан производ
 
-Review the completed template as a group, download it, and submit it in Google Classroom.
+Прегледајте завршени шаблон као група, преузмите га и пошаљите у Google учионицу.
 
 ```{suggestionnote}
-**Google Classroom????**
+**Google учионица????**
 ```
 

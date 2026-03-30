@@ -1,10 +1,10 @@
-# Final product
+# Коначни производ
 
-Well done on completing the Assembly Process, your template is now complete and will serve as your final product for the course. Take time to review it carefully as a group and then download it and submit it in Google Classroom. 
+Браво што сте завршили процес склапања, ваш шаблон је сада комплетан и служиће као коначни производ за курс. Утрошите додатно време да га као група пажљиво прегледате, затим га преузмите и пошаљите у Google учионицу.
 
-## Progress Report
+## Извештај о напретку
 
-At session end, record group progress and individual contributions in the classroom journal.
+На крају сесије забележите напредак групе и индивидуалне доприносе у дневник учионице.
 
 ```{raw} html
 <div style="text-align: center">
