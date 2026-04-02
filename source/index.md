@@ -1,45 +1,45 @@
 ﻿---
 status: exclude
 alias: CoCreate_HW_Assembly_sr
-lang: sr-Cyr
-short_description: Колаборативно растављање и састављање рачунарског система.
+lang: sr
+short_description: Сарадничко растављање и поновно склапање рачунарског система.
 long_description: >
-    <p>У овом курсу, полазници ће безбедно и колаборативно раставити и поново саставити рачунарски систем, идентификовати и евидентирати његове компоненте, и израдити јасну, прецизну техничку документацију целокупног процеса у четири сесије.</p>
+    <p>У овом курсу, ученици ће безбедно и сараднички растављати и поново склапати рачунарски систем, идентификовати и бележити његове компоненте и креирати јасну и прецизну техничку документацију целокупног процеса кроз четири сесије.</p>
     <p>
     <p>Овај курс је развијен као део Erasmus+ пројекта: <a rel="license" href="https://erasmus-cocreate.petlja.org">CoCreate - Computer-Supported Collaborative Learning for Inclusive Education</a>
     </p>
     <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.en">
     <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
-    <br>Курс је објавила Фондација Петља под <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.en">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>.
+    <br>Овај курс је објавила Фондација Петља под лиценцом <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.en">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>.
     </p>
 will_learn:
-    - Технике и процедуре за склапање и растављање рачунарске опреме.
-    - Како радити са ручним алатима, заштитном опремом и технологијом, користећи лаптопове и платформу исправно.
-    - Како сарађивати и комуницирати, решавати проблеме, радити у тиму и управљати временом.
+    - Технике и поступке за склапање и растављање рачунарске опреме.
+    - Како правилно користити ручне алате, заштитну опрему и технологију, укључујући лаптопе и платформу.
+    - Како сарађивати и комуницирати, уз развој вештина решавања проблема, тимског рада и управљања временом.
 
-needed:
-    - 1 рачунар/лаптоп по групи за растављање и слагање
-    - 1 рачунар/лаптоп са интернет приступом по групи за ресурсе и платформу
+needed: 
+    - 1 рачунар/лаптоп по групи за растављање и склапање
+    - 1 рачунар/лаптоп са приступом интернету по групи за ресурсе и платформу
     - 1 мобилни телефон за фотографисање
-    - 1 комплет алата по групи (прецизни одвијачи, антистатичка нараквица, каблови, клешта, термална паста, антистатичка четкица)
+    - 1 сет алата по групи (прецизни одвијачи, антистатичка наруквица, везице, клешта, термална паста, антистатичка четкица)
     
 useful:
-    - Python 3.12 документација: https://docs.python.org/3.12/
+    - Python 3.12 documentation: https://docs.python.org/3.12/
 ---
 
-# Data Analysis - Visualization
+# Анализа података - Визуелизација
 
-You are about to start an introductory course ......
+Управо започињете уводни курс ......
 
-Course author: Project team from Universitat Pompeu Fabra Barcelona
+Аутор курса: Пројектни тим са Universitat Pompeu Fabra Barcelona
 
-This course is published by Petlja Foundation under the
+Овај курс је објавила Фондација Петља под
 [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.sr_LATN).
 
 
 ```{toctree}
 :maxdepth: 2
-:caption: Contents
+:caption: Садржај
 :hidden:
 
 intro/index
