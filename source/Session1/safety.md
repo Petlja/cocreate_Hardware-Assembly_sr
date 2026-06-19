@@ -62,7 +62,19 @@
 Важно је знати и поштовати знаке упозорења који се појављују на различитим елементима.
 
 
-```{image} images/safety1.png
+```{image} images/safety1-1.png
+:width: 90%
+:align: center
+:alt: Слика садржи различите знаке упозорења о безбедности.
+```
+
+```{image} images/safety1-2.png
+:width: 90%
+:align: center
+:alt: Слика садржи различите знаке упозорења о безбедности.
+```
+
+```{image} images/safety1-3.png
 :width: 90%
 :align: center
 :alt: Слика садржи различите знаке упозорења о безбедности.
