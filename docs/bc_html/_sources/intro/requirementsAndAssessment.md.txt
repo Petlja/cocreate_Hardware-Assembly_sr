@@ -1,47 +1,47 @@
-﻿# Materials and Assessments
+﻿# Материјали и Оцењивање
 
-## Materials
+## Материјали
 
-- 1 PC/laptop per group for disassembly and assembly
-- 1 1 PC/laptop with Internet access per group for accessing the Petlja platform and other external resources needed during the activity
-- 1 mobile phone for taking pictures
-- 1 tool kit per group (precision screwdrivers, anti-static wrist strap, zip ties, pliers, thermal paste, anti-static brush)
+- 1 PC/laptop по групи за растављање и склапање
+- 1 PC/laptop са интернет приступом по групи за приступ платформи Петља и другим спољним ресурсима потребним током активности
+- 1 мобилни телефон за фотографисање
+- 1 комплет алата по групи (прецизни одвијачи, антистатичка нараквица, каблови, клешта, термална паста, антистатичка четкица)
 
-## Assessment
+## Оцењивање
 
-Your work will be assessed based on your **group’s progress in each session**, with particular attention to how your teamwork is organized and the effectiveness of your collaboration, as well as on the final product you produce, **a disassembly and assembly tutorial**.
+Ваш рад ће се оцењивати на основу **напредка ваше групе у свакој сесији**, са посебном пажњом на то како је организован ваш тимски рад и ефикасност ваше сарадње, као и на коначном производу који произведете, **водичу за растављање и склапање**.
 
-By the end of this course, each student should be able to:
+До краја овог курса, сваки ученик треба да буде у стању да:
 
-- Apply the correct procedures to assemble and disassemble a computer system.
-- Demonstrate safe practices when handling hardware components during assembly and disassembly tasks.
-- Identify and record the basic technical specifications (e.g., brand, model, capacity) of key computer components.
-- Produce clear and accurate technical documentation related to the assembly and disassembly process.
-- Apply effective collaborative strategies and provide reflections on the collaborative process.
+- Примени исправне процедуре за склапање и растављање рачунарског система.
+- Демонстрира безбедне праксе при руковању хардверским компонентама током задатака склапања и растављања.
+- Идентификује и евидентира основне техничке спецификације (нпр. бренд, модел, капацитет) кључних рачунарских компоненти.
+- Произведе јасну и прецизну техничку документацију везану за процес склапања и растављања.
+- Примени ефикасне стратегије сарадње и пружи рефлексије о процесу сарадње.
 
-Your work will be assessed according to the following **rubric**:
+Ваш рад ће се оцењивати према следећој **рубрици**:
 
-### Rubric: Rating Scale
+### Рубрика: Скала оцењивања
 
-- 1 - Not followed at all 
-- 2 — Mostly not followed 
-- 3 — Mostly followed 
-- 4 — Fully followed 
+- 1 - Није се пратило уопште
+- 2 — Углавном се није пратило
+- 3 — Углавном се пратило
+- 4 — Потпуно се пратило
 
-| Criteria                                                                 | 1 | 2 | 3 | 4 |
-|--------------------------------------------------------------------------|---|---|---|---|
-| Applies correct assembly/disassembly procedures                          | 1 | 2 | 3 | 4 |
-| Demonstrates safe hardware handling practices                            | 1 | 2 | 3 | 4 |
-| Identifies and records technical specifications                          | 1 | 2 | 3 | 4 |
-| Produces clear and accurate technical documentation                      | 1 | 2 | 3 | 4 |
-| **Collaboration Skills**                                                 |   |   |   |   |
-| 1. We are all equal and we respect one another.                          | 1 | 2 | 3 | 4 |
-| 2. We foster a good atmosphere even when we think differently.           | 1 | 2 | 3 | 4 |
-| 3. We are all responsible for group work. In successful groups, all members have a sense of joint or shared responsibility for the results of group work. | 1 | 2 | 3 | 4 |
-| 4. We help everyone contribute to group work.                            | 1 | 2 | 3 | 4 |
-| 5. We strive to involve everyone in decision-making.                     | 1 | 2 | 3 | 4 |
-| 6. The more ideas we consider, the more certain we are we have selected the best one. | 1 | 2 | 3 | 4 |
-| 7. We expound on every idea, weigh arguments, and devise solutions.      | 1 | 2 | 3 | 4 |
-| 8. We wisely use our time to work on the task.                           | 1 | 2 | 3 | 4 |
-| 9. We monitor our progress and contemplate our next step.                | 1 | 2 | 3 | 4 |
+| Критеријуми                                                                 | 1 | 2 | 3 | 4 |
+|------------------------------------------------------------------------------|---|---|---|---|
+| Примењује исправне процедуре склапања/растављања                          | 1 | 2 | 3 | 4 |
+| Демонстрира безбедне праксе руковања хардвером                            | 1 | 2 | 3 | 4 |
+| Идентификује и евидентира техничке спецификације                          | 1 | 2 | 3 | 4 |
+| Произведе јасну и прецизну техничку документацију                      | 1 | 2 | 3 | 4 |
+| **Вештине сарадње**                                                 |   |   |   |   |
+| 1. Сви смо једнаки и поштујемо једни друге.                          | 1 | 2 | 3 | 4 |
+| 2. Негујемо добру атмосферу чак и када мислимо другачије.           | 1 | 2 | 3 | 4 |
+| 3. Сви смо одговорни за групни рад. У успешним групама, сви чланови имају осећај заједничке или дељене одговорности за резултате групног рада. | 1 | 2 | 3 | 4 |
+| 4. Помажемо свима да допринесу групном раду.                            | 1 | 2 | 3 | 4 |
+| 5. Тежимо да укључимо све у доношење одлука.                     | 1 | 2 | 3 | 4 |
+| 6. Што више идеја размотримо, то смо сигурнији да смо изабрали најбољу. | 1 | 2 | 3 | 4 |
+| 7. Разрађујемо сваку идеју, вреднујемо аргументе и смишљамо решења.      | 1 | 2 | 3 | 4 |
+| 8. Мудро користимо наше време за рад на задатку.                           | 1 | 2 | 3 | 4 |
+| 9. Пратимo наш напредак и размишљамо о следећем кораку.                | 1 | 2 | 3 | 4 |
 
