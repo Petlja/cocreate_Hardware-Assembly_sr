@@ -8,7 +8,7 @@
 
 ```{raw} html
 <div style="text-align: center">
-    <a href="../_static/pdf/Pracenje_napretka_word.docx" width="100%" height="600px"> Преузмите упутство</a>
+    <a href="../_static/pdf/Pracenje_napretka_word.docx" width="100%" height="600px"> Преузмите документ за праћење напретка</a>
 </div>
 ```
 
