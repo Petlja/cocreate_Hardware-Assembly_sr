@@ -8,6 +8,11 @@
 
 ```{raw} html
 <div style="text-align: center">
-    <iframe src="https://forms.gle/Z8JyjEtFQ9G9Lkxq6" width="100%" height="600px" frameborder="0"></iframe>
+    <a href="../_static/pdf/Pracenje_napretka_word.docx" width="100%" height="600px"> Преузмите упутство</a>
 </div>
+```
+
+```{learnmorenote} За наставнике
+
+Пре него што ученици почну да раде на извештају, јасно им објасните где треба да га сачувају и како треба да га предају (нпр. у дељеном фолдеру, на платформи за учење или путем имејла). Ученици ће допуњавати исти документ након Активности 3 и 4, па је важно да могу лако поново да га отворе.
 ```

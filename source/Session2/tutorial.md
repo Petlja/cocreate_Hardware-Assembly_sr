@@ -4,12 +4,14 @@
 
 Користите одељак **Процес растављања** из пруженог *Шаблона водича за растављање и склапање* да организујете свој рад јасно и систематично.
 
+```{raw} html
+<div style="text-align: center">
+    <a href="../_static/pdf/Uputstvo.docx" width="100%" height="600px"> Преузмите упутство</a>
+</div>
+```
+
 ```{suggestionnote}
 **Важно:** Исти шаблон допуњавајете током целог курса. На крају, садржаће детаљан процес растављања, све компоненте хардвера и процес склапања. Заједно, ово ће постати ваш **коначни производ**.
 ```
 
-```{raw} html
-<div style="text-align: center">
-    <iframe src="https://docs.google.com/document/d/18J_qKyfmHlTXNZIo0ZqgH_LuOgD4V9fQ0w-TetFaJcc/edit?usp=sharing" width="100%" height="600px" frameborder="0"></iframe>
-</div>
-```
+
