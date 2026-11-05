@@ -6,7 +6,7 @@
 
 ```{raw} html
 <div style="text-align: center">
-    <a href="../_static/pdf/Uputstvo.docx" width="100%" height="600px"> Преузмите упутство</a>
+    <a href="../_static/pdf/Uputstvo.docx" width="100%" height="600px"> Преузмите шаблон за попуњавање</a>
 </div>
 ```
 
